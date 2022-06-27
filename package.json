@@ -1,7 +1,7 @@
 {
-  "name": "tucil-1-kriptografi",
+  "name": "UAS-Kriptografi",
   "version": "1.0.0",
-  "description": "Tucil 1 Kriptografi",
+  "description": "",
   "main": "main.js",
   "dependencies": {
     "body-parser": "^1.19.0",
@@ -15,17 +15,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/irfansofyana/tucil-1-kriptografi.git"
+    "url": "git+https://github.com/ayunisalsa/UAS-Kriptografi"
   },
   "keywords": [
     "kriptografi"
   ],
-  "author": "irfansofyana&juniardiakbar",
+  "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/irfansofyana/tucil-1-kriptografi/issues"
+    "url": "https://github.com/ayunisalsa/UAS-Kriptografi/issues"
   },
-  "homepage": "https://github.com/irfansofyana/tucil-1-kriptografi#readme",
+  "homepage": "https://github.com/ayunisalsa/UAS-Kriptografi#readme",
   "devDependencies": {
     "jest": "^26.4.2"
   }

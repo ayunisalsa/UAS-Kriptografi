@@ -1,3 +1,3 @@
 # UAS-Kriptografi
 program ini dibuat untuk memenuhi tugas UAS kriptografi
-projek ini dibuat dengan referensi #https://github.com/irfansofyana
+projek ini dibuat referensi dari #https://github.com/irfansofyana
